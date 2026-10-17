@@ -177,5 +177,3 @@ civicpulse/
 
 ---
 
-## 📝 License
-MIT — Smart India Hackathon 2024
